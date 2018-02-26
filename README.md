@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="http://cdn.edgecast.steamstatic.com/steam/apps/391730/header.jpg?t=1513619827" width="500">    
+    <img src="http://cdn.edgecast.steamstatic.com/steam/apps/391730/header.jpg?t=1513619827">    
 </p>
 <p align="center">
   <b>http://store.steampowered.com/app/391730</b>
