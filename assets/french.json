@@ -987,6 +987,27 @@
         },
         "CAS": {
             "text": {
+<<<<<<< HEAD
+                "2": "Dommages physiques avec attaques sporadiques rapides.",
+                "3": "Attaques physiques ou incendiaires au mortier.",
+                "1": "Dommages physiques occasionnés par des attaques électriques rapides et occasionnelles.",
+                "11": "Attaque bondissante avec des dégâts électriques. Se téléporte occaisionnellement à un endroit et déclenche une volée de boules de foudre.",
+                "9": "Tirs provocant des maux d'estomac auto-résorbants.",
+                "15": "Fires a random pattern of crystals, dealing ice damage.",
+                "13": "Creates a super-powerful laser beam from between its antlers, dealing electric damage.",
+                "5": "Fires slow-moving electricity balls, with occasional short-range electric discharge.",
+                "4": "Physical attacks with occasional poison cloud eruption.",
+                "7": "Pokes freezing tentacles up from the ground, slowing the target and dealing ice damage.",
+                "6": "Fires a rapid series of exploding tadpoles, dealing physical damage.",
+                "18": "Emits two rotating waves of electrical shocks.",
+                "0": "Physical damage impact with poison cloud explosion. Occasionally fires three projectiles at once.",
+                "10": "Physical damage with lingering poison after-effects.",
+                "8": "Fires physical damage mucus balls either in a cone or in a rapid-fire series.",
+                "14": "Rapid-fire physical damage with lingering poison effects.",
+                "12": "Swooping long-range and explosive short-range physical damage attacks.",
+                "17": "Splits apart and creates a surge of electric damage around its pieces.",
+                "16": "Erupts in explosive damage."
+=======
                 "2": "Physical damage with sporadic rapid attacks.",
                 "3": "Physical or fire damage mortar attacks.",
                 "1": "Physical damage with occasional rapid, electric attacks.",
@@ -1006,6 +1027,7 @@
                 "12": "Poursuite des attaques de dégâts physiques à courte portée et explosives à courte portée.",
                 "17": "Se sépare et crée une vague de dégâts électriques autour des fragments.",
                 "16": "Eruption de dégâts explosifs."
+>>>>>>> upstream/master
             },
             "desc": "Creature Attack"
         },
@@ -1146,8 +1168,8 @@
         },
         "ID": {
             "text": {
-                "137": "This appears to be poop from a domesticated Wat. It is gross. You are gross.",
-                "265": "This was given to you by a friendly Pikkaye. Yes, that's right. Given.",
+                "137": "Cela semble être une merde d'un Wat domestiqué. C'est crade. Vous êtes crades.",
+                "265": "Cela a été donné par ub amical Pikkaye. Oui, c'est vrai. Given.",
                 "683": "When you place your hand on it, you can feel it vibrating and humming slightly.",
                 "928": "This hovering object was identified, and now... IT IS NO MORE!",
                 "37": "If planted in the right type of soil, this will sprout into a lovely Sawgrass plant.",
