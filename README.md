@@ -13,4 +13,5 @@ Community Translate : <a href="http://steamcommunity.com/app/391730/discussions/
 - Waiting for : <a href="http://steamcommunity.com/app/391730/discussions/0/351659808495213242/"> Russian </a>
 - Waiting for : <a href="http://steamcommunity.com/app/391730/discussions/0/133255603285038720/"> Spanish </a>
 - Waiting for : <a href="http://steamcommunity.com/app/391730/discussions/0/1620599015892125406/"> Brazilian </a>
+- Waiting for : German
 - For format json : https://www.freeformatter.com/json-formatter.html
