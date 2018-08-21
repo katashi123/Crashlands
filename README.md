@@ -16,3 +16,4 @@ Community Translate : <a href="http://steamcommunity.com/app/391730/discussions/
 - Waiting for : German
 
 - For format json : https://www.freeformatter.com/json-formatter.html
+f
